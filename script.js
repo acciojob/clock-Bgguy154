@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const time=document.querySelector("#time");
+const time=document.querySelector("#timer");
 window.addEventListener("DOMContentLoaded",(e)=>{
 	e.preventDefault();
 	const now=new Date();
